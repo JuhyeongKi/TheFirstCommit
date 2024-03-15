@@ -1,2 +1,2 @@
-email :
-gitID :
+email : 369b369b@gmail.com
+gitID : JuhyeongKi
